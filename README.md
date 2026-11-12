@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hello, I'm a Data Analyst!
+# 👋 Hello, I'm a Data Analyst YANGJH!
 
 ### 📊 Aspiring Data Analyst | Finance & Trade Data
 
